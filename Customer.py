@@ -44,5 +44,3 @@ for user in users:
 # # Dynamic attributes adding
 # customers[1].verified = True
 # print(customers[1].verified)
-
-# https://youtu.be/MikphENIrOo?t=1089
